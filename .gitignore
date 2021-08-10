@@ -1,0 +1,7 @@
+#gitignore
+*.json
+.terraform/
+.terraform.lock.hcl
+*.tfstate.*
+*.tfstate
+*.history

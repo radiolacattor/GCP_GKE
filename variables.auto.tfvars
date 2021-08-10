@@ -1,0 +1,10 @@
+gcp_credentials = "service-account.json"
+gcp_project_id = "petproject-317611"
+gcp_region = "europe-west3"
+gcp_zone = ["europe-west3-b"]
+gcp_cluster_name = "test"
+gke_regional = false
+gke_network = "default"
+gke_subnet = "default"
+gke_nodepool_name = "default-nodepool"
+gke_service_account = "petkuber@petproject-317611.iam.gserviceaccount.com"
